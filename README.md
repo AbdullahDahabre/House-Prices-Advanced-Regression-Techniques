@@ -1,4 +1,4 @@
-# House - Prices Advanced Regression Techniques
+# House Prices - Advanced Regression Techniques
 ![House Prices](https://th.bing.com/th/id/OIF.ri56X0TmvyZjZ4jZ7WyKLw?rs=1&pid=ImgDetMain)
 * Kindly review my Kaggle notebook.
 
