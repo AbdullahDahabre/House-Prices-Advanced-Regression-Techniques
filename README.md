@@ -1,5 +1,5 @@
 # House Prices - Advanced Regression Techniques
-![House Prices](https://th.bing.com/th/id/OIF.ri56X0TmvyZjZ4jZ7WyKLw?rs=1&pid=ImgDetMain)
+![House Prices](https://www.investopedia.com/thmb/JYd6bYQxzndd9TGquSKXydJHFp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-509540570-0f613d77de3b40b28af6699f51b96874.jpg)
 * Kindly review my Kaggle notebook.
 
 https://www.kaggle.com/code/abdullahdahabre23/house-prices-advanced-regression-techniques
